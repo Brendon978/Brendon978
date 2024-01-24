@@ -40,7 +40,7 @@ O segundo se chamava pong, que era um jogo de tênis, com interface gráfica, ap
 
 *Tenho interesse:*
 
-![image](https://img.shields.io/badge/cplusplus-4a4a4a?style=for-the-badge&logo=cypress&logoColor=white)
+![image](https://img.shields.io/badge/c++-4a4a4a?style=for-the-badge&logo=cypress&logoColor=white)
 
 
 *Faculdade:*
